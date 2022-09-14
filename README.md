@@ -1,2 +1,2 @@
 # vueschool-forum
- Lean VueJS
+ Learn VueJS
